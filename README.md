@@ -20,26 +20,41 @@ Other great introductory resources are:
 
 -   [Introverse](https://spielmanlab.github.io/introverse/) by Stephanie
     Spielman
-
 -   [RStudio Cloud Primers](https://rstudio.cloud/learn/primers) by
     RStudio’s education team
-
 -   [Modern Dive](https://moderndive.com/) for basic stats introductions
-
 -   [Introduction to Statistical
     Learning](https://www.statlearning.com/) for a more detailed
     introduction to statistics with R
-
 -   [DataQuest](https://dataquest.com) for more online R exercises
 
 ## Roadmap
 
+Main sections:
+
+-   Hello World (R, RStudio, Git, Package Installs)
+-   Visualizing Data (Visualizations)
+-   Wrangling Data
+-   Importing Data
+-   Functions and Iteration
+-   Data Science Ethics
+-   Making Rigorous Conclusions (Modelling)
+
+Further extensions:
+
+-   Web Scraping
+-   Text Analysis
+-   Interactive Dataviz
+-   Web apps
+-   Bayesian inference
+
 ## Next steps
 
 -   Shiny
+-   SQL
 -   Reports and Automation
 -   Advanced R Programming
 -   Statistics and Modelling
 -   Scraping and APIs
--   Data Viz
--   Functions and Packages
+-   Interactive Data Viz
+-   Packages

@@ -34,13 +34,31 @@ Other great introductory resources are:
 
 ## Roadmap
 
+Main sections:
+
+- Hello World (R, RStudio, Git, Package Installs)
+- Visualizing Data (Visualizations)
+- Wrangling Data
+- Importing Data
+- Functions and Iteration
+- Data Science Ethics
+- Making Rigorous Conclusions (Modelling)
+
+Further extensions:
+
+- Web Scraping
+- Text Analysis
+- Interactive Dataviz
+- Web apps
+- Bayesian inference
 
 ## Next steps
 
 - Shiny
+- SQL
 - Reports and Automation
 - Advanced R Programming
 - Statistics and Modelling
 - Scraping and APIs
-- Data Viz
-- Functions and Packages
+- Interactive Data Viz
+- Packages
