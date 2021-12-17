@@ -52,9 +52,17 @@ Further extensions:
 
 -   Shiny
 -   SQL
+    -   SQL for Data Scientists
+    -   dbplyr
 -   Reports and Automation
 -   Advanced R Programming
--   Statistics and Modelling
+    -   Advanced R
+-   Modelling/Machine Learning
+    -   Tidymodels with R
+-   Statistics
+    -   Statistical Rethinking (Bayesian)
+    -   Elements of Statistical Learning
 -   Scraping and APIs
 -   Interactive Data Viz
 -   Packages
+    -   R Packages book
