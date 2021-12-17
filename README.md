@@ -57,6 +57,7 @@ Further extensions:
     -   JS for R
     -   reactivity talk by Joe Cheng
     -   Devops
+    -   Shiny Server
 -   SQL
     -   SQL for Data Scientists
     -   dbplyr
