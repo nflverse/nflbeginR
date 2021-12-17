@@ -51,6 +51,12 @@ Further extensions:
 ## Next steps
 
 -   Shiny
+    -   Mastering Shiny
+    -   Outstanding UIs for Shiny
+    -   Engineering Production Shiny
+    -   JS for R
+    -   reactivity talk by Joe Cheng
+    -   Devops
 -   SQL
     -   SQL for Data Scientists
     -   dbplyr
