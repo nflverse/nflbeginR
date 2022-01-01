@@ -18,14 +18,15 @@ nflbeginR is primarily based on:
 
 Other great introductory resources are:
 
--   [Introverse](https://spielmanlab.github.io/introverse/) by Stephanie
-    Spielman
 -   [RStudio Cloud Primers](https://rstudio.cloud/learn/primers) by
     RStudio’s education team
 -   [Modern Dive](https://moderndive.com/) for basic stats introductions
 -   [Introduction to Statistical
     Learning](https://www.statlearning.com/) for a more detailed
     introduction to statistics with R
+-   [Introverse](https://spielmanlab.github.io/introverse/) by Stephanie
+    Spielman for friendlier help docs
+-   [tidyowl](https://github.com/laderast/tidyowl) for intermediate tidyverse tutorials
 -   [DataQuest](https://dataquest.com) for more online R exercises
 
 ## Roadmap
