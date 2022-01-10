@@ -28,6 +28,7 @@ Other great introductory resources are:
     Spielman for friendlier help docs
 -   [tidyowl](https://github.com/laderast/tidyowl) for intermediate tidyverse tutorials
 -   [DataQuest](https://dataquest.com) for more online R exercises
+-   [R Graph Gallery](https://www.r-graph-gallery.com/)
 
 ## Roadmap
 
