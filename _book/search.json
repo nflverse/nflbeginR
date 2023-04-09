@@ -2,51 +2,65 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "nflbeginnR",
+    "title": "nflbeginR",
     "section": "",
     "text": "Introduction\nYet another book about learning R? NO…well, let’s call it a new approach!\nSo what is the new approach? Divide et impera1! We will divide the problem of learning R in two sub-problems.\nThere is no reason to write yet another book that teaches R. Instead, we leave this task to Hadley Wickham and others by guiding through R for Data Science2. The most important part of learning a new language or new techniques of a language is applying those techniques.\nMost books and articles use data sets like NYC Flights, mtcars, iris or others to apply new techniques on actual data sets. But if we’re honest, we find it boring because we mostly don’t relate to that data. They simply don’t interest us.\nAnd this is precisely where this book comes in. We believe that it is significantly more efficient to teach yourself a new language or new techniques with data that really interests you. In fact, this idea can be applied to all types of datasets. This book will do that with data from the nflverse.\nSo if you want to learn R or new techniques in R AND are an avid fan of NFL football, then this is the right book for you!"
   },
   {
     "objectID": "index.html#basic-structure",
     "href": "index.html#basic-structure",
-    "title": "nflbeginnR",
+    "title": "nflbeginR",
     "section": "Basic Structure",
     "text": "Basic Structure\nThe idea of this book is: “Read this section in R for Data Science and apply what you’ve learned to nflverse data” .\nWe will introduce you to case studies with nflverse data, provide code of possible solutions and help you help yourself."
   },
   {
-    "objectID": "01_get_started.html",
-    "href": "01_get_started.html",
+    "objectID": "index.html#about-the-nflverse",
+    "href": "index.html#about-the-nflverse",
+    "title": "nflbeginR",
+    "section": "About the nflverse",
+    "text": "About the nflverse\n…"
+  },
+  {
+    "objectID": "get_started.html",
+    "href": "get_started.html",
     "title": "1  Get Started with R",
     "section": "",
     "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
-    "objectID": "02_dataviz.html",
-    "href": "02_dataviz.html",
+    "objectID": "dataviz.html",
+    "href": "dataviz.html",
     "title": "2  Data Visualization",
     "section": "",
     "text": "In this chapter, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "03_transform.html",
-    "href": "03_transform.html",
+    "objectID": "transform.html",
+    "href": "transform.html",
     "title": "3  Data Transformation",
     "section": "",
     "text": "In this chapter, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "04_tidy.html",
-    "href": "04_tidy.html",
+    "objectID": "tidy.html",
+    "href": "tidy.html",
     "title": "4  Data Tidying",
     "section": "",
     "text": "In this chapter, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "05_import.html",
-    "href": "05_import.html",
+    "objectID": "import.html",
+    "href": "import.html",
     "title": "5  Data Import",
     "section": "",
     "text": "In this chapter, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "contribute.html",
+    "href": "contribute.html",
+    "title": "6  Contribute to this Book",
+    "section": "",
+    "text": "Describe how to contribute case studies or other stuff to this book"
   },
   {
     "objectID": "references.html",

@@ -2,16 +2,17 @@ project:
   type: book
 
 book:
-  title: "nflbeginnR"
+  title: "nflbeginR"
   author: "Sebastian Carl & Tan Ho"
   date: "4/09/2023"
   chapters:
-    - 00_index.qmd
-    - 01_get_started.qmd
-    - 02_dataviz.qmd
-    - 03_transform.qmd
-    - 04_tidy.qmd
-    - 05_import.qmd
+    - index.qmd
+    - get_started.qmd
+    - dataviz.qmd
+    - transform.qmd
+    - tidy.qmd
+    - import.qmd
+    - contribute.qmd
     - references.qmd
 
 bibliography: references.bib
