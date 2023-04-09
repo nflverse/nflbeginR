@@ -1,0 +1,31 @@
+# Introduction {.unnumbered}
+
+*Yet another book about learning R?* **NO**...well, let's call it a new approach!
+
+*So what is the new approach?* Divide et impera[^index-1]! We will divide the problem of learning R in two sub-problems.
+
+[^index-1]: meaning the [divide and conquer algorithm design paradigm](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm)
+
+1.  Teach the language, and
+
+2.  apply the language.
+
+There is no reason to write yet another book that teaches R. Instead, we leave this task to Hadley Wickham and others by guiding through [R for Data Science](https://r4ds.hadley.nz)[^index-2]. The most important part of learning a new language or new techniques of a language is applying those techniques.
+
+[^index-2]: we will link to the work-in-progress 2nd edition of "R for Data Science"
+
+Most books and articles use data sets like NYC Flights, mtcars, iris or others to apply new techniques on actual data sets. But if we're honest, we find it boring because we mostly don't relate to that data. They simply don't interest us.
+
+And this is precisely where this book comes in. We believe that it is significantly more efficient to teach yourself a new language or new techniques with data that really interests you. In fact, this idea can be applied to all types of datasets. This book will do that with data from the nflverse.
+
+So if you want to learn R or new techniques in R AND are an avid fan of NFL football, then this is the right book for you!
+
+## Basic Structure
+
+The idea of this book is: *"Read this section in R for Data Science and apply what you've learned to nflverse data"* .
+
+We will introduce you to case studies with nflverse data, provide code of possible solutions and help you help yourself.
+
+## About the nflverse
+
+...

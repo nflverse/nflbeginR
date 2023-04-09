@@ -1,0 +1,37 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "nflbeginR"
+  subtitle: A Fresh Approach to Learn R with your Favorite Data Set(s)
+  author: Sebastian Carl & Tan Ho
+  search: true
+  repo-url: https://github.com/nflverse/nflbeginR
+  repo-actions: [edit, issue, source]
+  reader-mode: true
+  page-footer:
+    left: |
+      nflbeginR was written by Sebastian Carl and Tan Ho.
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  chapters:
+    - index.qmd
+    - get_started.qmd
+    - dataviz.qmd
+    - transform.qmd
+    - tidy.qmd
+    - import.qmd
+    - contribute.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: yeti
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
