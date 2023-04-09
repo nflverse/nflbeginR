@@ -17,3 +17,5 @@ StripTrailingWhitespace: Yes
 LineEndingConversion: Posix
 
 BuildType: None
+
+SpellingDictionary: en_US
